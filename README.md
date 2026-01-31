@@ -25,4 +25,8 @@ https://jsonplaceholder.typicode.com/posts
 ```bash
 git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
 
+👨‍💻 Author
+Om Narayan Darade  
+GitHub: https://github.com/om-03-005
+
 
