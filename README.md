@@ -20,10 +20,11 @@ This project uses the JSONPlaceholder API to perform CRUD operations on posts.
 ## 🔗 API Used
 https://jsonplaceholder.typicode.com/posts
 
-## 📦 Installation & Setup
-1. Clone the repository
+## ⚙️ Installation & Setup
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+cd MovieFlix
+npm install
+npm run dev
 
 👨‍💻 Author
 Om Narayan Darade  
